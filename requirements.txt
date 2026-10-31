@@ -1,0 +1,11 @@
+autogen-agentchat
+autogen-ext[openai]
+duckduckgo-search
+ddgs
+openai
+python-dotenv
+streamlit
+networkx
+langchain-community
+langchain-openai
+langchain-experimental
